@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-template-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/profalves/calculadora-template-sample.git",
+  "author": "Irailda Santos <irailda.santos@ab-inbev.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
